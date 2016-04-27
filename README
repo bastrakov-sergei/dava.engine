@@ -1,7 +1,4 @@
-Cross platform game development framework  
-
-- Our mission
-   - Best framework for development of mobile games.
+DAVA Engine - Game Development Engine
 
 - Platforms
    - iOS
@@ -10,6 +7,24 @@ Cross platform game development framework
    - Mac OS X
    - Universal Windows Platform
 
-Enhancing dava framework
-https://github.com/dava/dava.framework/wiki/Topics-that-requires-investigation
+We are building engine for professionals. 
+
+- Core features
+   -  Flexible UI
+      -  Tools for UI composition
+      -  Styles
+      -  Prototypes
+   -  Robust 3D Engine
+      -  Highly optimized for performance on mobile platforms
+      -  Stateless RHI for DX9, DX11, OpenGL, OpenGL ES and Metal
+      -  Flexible render architecture
+      -  Entity-component-system architecture for scene management
+   - Source code
+      -  Fully available here
+      -  Free for use in commercial projects
+      
+- Projects
+   -  WoT Blitz: http://wotblitz.com/
+   -  WoT Generals: http://wotgenerals.com/
+   
 
